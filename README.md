@@ -1,0 +1,2 @@
+# gocmdline
+cmdline for golang
